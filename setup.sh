@@ -1,5 +1,5 @@
 #!/bin/bash
 
-sudo ln -s terminate.sh /usr/local/bin/terminate
+sudo ln -s terminate.sh /usr/bin/terminate
 chmod +x  terminate.sh
 
